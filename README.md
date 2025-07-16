@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍊 school-management-system 
 PHP School management system developed for schools or small institutes. You can use this to maintain record's related to students, teachers, and other. [Click here to view a live demo](http://school-management-system.000.pe/?i=1)
 
@@ -143,3 +144,7 @@ Please make sure to update tests as appropriate.
 
 
 
+=======
+# CMS
+College Management System
+>>>>>>> 83b0dbf914ca3ea4b453e9e928194f92956eb257
