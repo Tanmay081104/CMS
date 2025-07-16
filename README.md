@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🍊 school-management-system 
 PHP School management system developed for schools or small institutes. You can use this to maintain record's related to students, teachers, and other. [Click here to view a live demo](http://school-management-system.000.pe/?i=1)
 
@@ -27,74 +27,6 @@ PHP School management system developed for schools or small institutes. You can 
   13. Single login
   14. Dark theme support
 
-## 🦤 SCREENSHOTS
-
-### Pre-View
-<div style="display: flex;flex-direction: column; grid-gap: 10px;">
-     <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/1.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-        <img src="screenshots/2.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-    </div>
-</div>
-<br>
-
-### Admin View
-<div style="display: flex;flex-direction: column; grid-gap: 10px;">
-   <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/3.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-        <img src="screenshots/4.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-    </div>
-     <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/5.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-        <img src="screenshots/6.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-    </div>
-     <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/7.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-        <img src="screenshots/8.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-    </div>
-     <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/9.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-        <img src="screenshots/10.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-    </div>
-</div>
-<br>
-
-### Teacher View
-<div style="display: flex;flex-direction: column; grid-gap: 10px;">
-    <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/11.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-        <img src="screenshots/12.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-    </div>
-</div>
-<br>
-
-### Student View
-<div style="display: flex;flex-direction: column; grid-gap: 10px;">
-   <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/13.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-        <img src="screenshots/14.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-    </div>
-    <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/15.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-        <img src="screenshots/16.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-    </div>
-    <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/20.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-    </div>
-    
-</div>
-<br>
-
-
-### Owner View
-<div style="display: flex;flex-direction: column; grid-gap: 10px;">
-    <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/17.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-        <img src="screenshots/19.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-    </div>
-    
-</div>
-<br>
 
 ## ✅ HOW TO USE?
 
@@ -135,16 +67,4 @@ The **Credentials** for default logins are
    The default password for newly created teacher and student accounts is set to their **date of birth**.  
    - Example: If the date of birth is **12 July 2000**, the password would be **12072000**.
 
-## ❤️ Contributing
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-
-
-=======
-# CMS
-College Management System
->>>>>>> 83b0dbf914ca3ea4b453e9e928194f92956eb257
